@@ -1,0 +1,66 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "btn_continue" : {
+      "comment" : "Button text for mobile login on login screen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "btn_done" : {
+      "comment" : "Button text for done button",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "enter_mobile_number" : {
+      "comment" : "Label text for entering mobile number",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter mobile number"
+          }
+        }
+      }
+    },
+    "login_with_mobile" : {
+      "comment" : "Label text to suggest login using mobile number",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login with Mobile Number"
+          }
+        }
+      }
+    },
+    "visas_on_time" : {
+      "comment" : "Tag below Atlys logo on login screen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "visas on time"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
